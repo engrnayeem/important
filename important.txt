@@ -1,6 +1,6 @@
 layout bananor somoy full width 100% dhore kaj korte hobe.kintu website body te 75 ba 80% dhore margin auto 0px kore layout k center kore kaj korte hobe.
-artical section=75%=mone korte hobe 100%
-tarpor ai 100% k dui vage kag korete hobe ek jon artical-1 pabe 25% r ekjon artical-2pabe 75%=100%=(artical-1-->25%+75% artical-2)
+Jodi website layout er kono  section ba kono layout section part jamon artical section=75%=mone korte hobe 100%
+tarpor ai 100% k dui vage kag korete hobe ek jon artical-1 part  pabe 25% r ekjon artical-2 part pabe 75%=100%=(artical-1-->25%+75% artical-2)
 
  table layout bananor somoy height and weight nia kaj korte parent a  pixel r child a % onujaye kaj korte hobe.
-div layout a width height nia kaj korer somoy  % mane 100%  nia kaj korte hobe.
+div layout a width height nia kaj korer somoy  % mane 100%  nia kaj korte hobe.(height a px dhore kaj korte hoy.)
